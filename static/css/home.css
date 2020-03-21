@@ -45,7 +45,7 @@ header > ul > li > a{
 
 u {
    text-decoration: none;
-   border-bottom: 3px solid rgb(221, 213, 244);
+   border-bottom: 3px solid #FFAD9E;
  }
 
 ul {
@@ -73,7 +73,7 @@ ul {
 
 #bodytext {
   font-family: 'Playfair Display', serif;
-  color: black;
+  color: #FFAD9E;
   font-weight: 400;
   font-size: 55px;
   margin-top: 20vh;
@@ -86,7 +86,7 @@ ul {
 
 #bio {
   font-family: 'Lato', sans-serif;
-  color: rgb(221, 213, 244);
+  color: black;
   font-size: 20px;
 }
 
