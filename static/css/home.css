@@ -1,5 +1,5 @@
 body {
-  background-color: #FF6767;
+  background-color: #FFF3F5;
 }
 
 header {
@@ -10,7 +10,7 @@ header {
 #logo {
   margin-left: 50px;
   font-family: 'Playfair Display', serif;
-  color: rgb(221, 213, 244);
+  color: #FFAD9E;
   font-weight: 700;
   font-size: 55px;
   text-align: left;
@@ -35,7 +35,7 @@ header > ul > li > a{
 	text-decoration: none;
   font-family: 'Lato', sans-serif;
   font-size: 20px;
-	color: rgb(221, 213, 244);
+	color: #FFAD9E;
   /* border-bottom: 5px solid rgb(221, 213, 244); */
   /* text-align: right;
   float: right; */
@@ -73,7 +73,7 @@ ul {
 
 #bodytext {
   font-family: 'Playfair Display', serif;
-  color: rgb(221, 213, 244);
+  color: black;
   font-weight: 400;
   font-size: 55px;
   margin-top: 20vh;
